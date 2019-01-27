@@ -11,7 +11,9 @@ int main()
     if ( n % 2 == 0)
         cout << n << " is even.";
     else
-        cout << n << " is odd-2.";
+        cout << n << " is odd-3.";
+	
+	
 
     return 0;
 }
